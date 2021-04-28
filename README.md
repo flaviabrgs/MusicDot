@@ -1,6 +1,6 @@
 <h1>💻 MusicDot</h1>
 
-<p align="center">Projeto de estudo feito a partir da apostila de <b>Estruturação de páginas usando HTML, CSS e JavaScript<b> da Caelum para a plataforma MusicDot</center> 
+<p align="center">Projeto de estudo feito a partir da apostila de <b>Estruturação de páginas usando HTML, CSS e JavaScript</b> da Caelum para a plataforma MusicDot</center> 
 <p>Comentário: Não fiz muitas modificações, segui a apostila, pois foi o meu primeiro contato de estudo com as linguagens como treinamento.</p>
 
 <p align="center">Foram feitos três documentos:</center>
